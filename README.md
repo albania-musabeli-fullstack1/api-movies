@@ -1,4 +1,4 @@
-# FullStack 1 - Actividad Sumativa 1
+# FullStack 1 - Actividad Formativa 2
 
 ## API Movies
 
